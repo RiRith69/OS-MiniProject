@@ -1,0 +1,17 @@
+2025-03-25 11:01:21 - Compressed ./../test into testFile.tar.gz
+2025-03-25 11:01:29 - User exited the script
+2025-03-26 21:38:54 - Listed details of ./test.sh
+2025-03-26 21:39:04 - User exited the script
+2025-03-26 21:42:05 - Failed to count files in ./MiniProject
+2025-03-26 21:43:11 - Failed to check disk usage of ./MiniProject
+2025-03-26 21:50:01 - Listed details of test.sh
+2025-03-26 21:50:26 - Backed up test.sh to newTest.sh
+2025-03-26 21:50:42 - Failed to count files in MiniProject
+2025-03-26 21:50:54 - Failed to count files in ./MiniProject
+2025-03-26 21:51:15 - Failed to count files in OS_Mini_Project
+2025-03-26 21:51:40 - Counted files in ./../OS_Mini_Project
+2025-03-26 21:52:12 - Checked disk usage of ./../OS_Mini_Project
+2025-03-26 21:52:40 - Searched for '.sh' in ./../OS_Mini_Project
+2025-03-26 21:53:04 - Compressed newTest.sh into hello.tar.gz
+2025-03-26 21:55:58 - Listed details of ./../OS_Mini_Project
+2025-03-27 12:41:13 - Listed details of main.sh
