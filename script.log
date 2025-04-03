@@ -15,3 +15,42 @@
 2025-03-26 21:53:04 - Compressed newTest.sh into hello.tar.gz
 2025-03-26 21:55:58 - Listed details of ./../OS_Mini_Project
 2025-03-27 12:41:13 - Listed details of main.sh
+2025-03-30 23:08:28 - Listed details of ./../../Operating System
+2025-03-30 23:32:13 - User exited the script
+2025-03-30 23:35:00 - Listed details of test.sh
+2025-03-30 23:36:08 - User exited the script
+2025-03-30 23:38:20 - Listed details of test.sh
+2025-03-30 23:47:20 - Listed details of test.sh
+2025-03-30 23:48:06 - Backed up test.sh to BackUpFile
+2025-03-30 23:48:33 - Failed to count files in New Folder
+2025-03-30 23:49:01 - Counted files in ./../New folder
+2025-03-30 23:49:39 - Checked disk usage of ./../New folder
+2025-03-30 23:52:41 - Compressed BackUpFile into newCompress.tar.gz
+2025-03-30 23:52:46 - User exited the script
+2025-03-31 09:12:57 - Compressed test.sh into hello.tar.gz
+2025-03-31 09:14:54 - Failed to check disk usage of MiniProject
+2025-03-31 09:15:21 - Checked disk usage of BackUpFile
+2025-03-31 09:17:07 - Failed to check disk usage of ./../../../Documents
+2025-03-31 09:17:23 - Failed to check disk usage of 3
+2025-04-03 22:48:25 - Listed details of test.sh
+2025-04-03 22:48:44 - Backed up test.sh to newBackup
+2025-04-03 22:49:03 - Counted files in newBackup
+2025-04-03 22:49:28 - Checked disk usage of newBackup
+2025-04-03 22:50:00 - Compressed newBackup into hellobackup.tar.gz
+2025-04-03 22:50:24 - User exited the script
+2025-04-03 23:14:18 - Listed details of newBackup
+2025-04-03 23:16:08 - Backed up test.sh to hello
+2025-04-03 23:17:45 - Failed to count files in MINIPROJECT
+2025-04-03 23:17:55 - Failed to count files in MiniProject
+2025-04-03 23:18:44 - Counted files in test
+2025-04-03 23:19:46 - Checked disk usage of test
+2025-04-03 23:20:50 - Compressed test into hello.tar.gz
+2025-04-03 23:24:21 - No matching files found for '.sh' in 'test'
+2025-04-03 23:24:50 - Successfully searched for '*.txt' in 'test'
+2025-04-03 23:47:48 - Listed details of scripts
+2025-04-03 23:51:04 - Listed details of test.sh
+2025-04-03 23:51:12 - Backed up test.sh to hello
+2025-04-03 23:51:23 - Counted files in scripts
+2025-04-03 23:51:28 - Checked disk usage of scripts
+2025-04-03 23:51:44 - Successfully searched for '*.sh' in 'scripts'
+2025-04-03 23:51:58 - Compressed test.sh into new.tar.gz
